@@ -1,9 +1,9 @@
 {
-  "[project]/Github/web/node_modules/react-slick/lib/index.js [app-client] (ecmascript, next/dynamic entry)": {
-    "id": "[project]/Github/web/node_modules/react-slick/lib/index.js [app-client] (ecmascript, next/dynamic entry)",
+  "[project]/node_modules/react-slick/lib/index.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/node_modules/react-slick/lib/index.js [app-client] (ecmascript, next/dynamic entry)",
     "files": [
-      "static/chunks/5132d_2f195fe2._.js",
-      "static/chunks/5132d_react-slick_lib_index_6f32232b.js"
+      "static/chunks/node_modules_65b909ad._.js",
+      "static/chunks/node_modules_react-slick_lib_index_4b77c74f.js"
     ]
   }
 }
