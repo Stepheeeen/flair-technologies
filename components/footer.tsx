@@ -24,6 +24,12 @@ export default function Footer() {
           <p className="text-sm leading-relaxed max-w-xs">
             Transforming businesses through innovative technology solutions.
           </p>
+          <div className="mt-6 text-sm">
+            <p className="text-white font-medium mb-2">Office</p>
+            <p className="leading-relaxed opacity-80">
+              NO. 31, ABIGAIL OLALEYE STREET OFF MARTIN'S, AKUTE, OGUN STATE, NIGERIA
+            </p>
+          </div>
         </div>
 
         {/* Services */}
